@@ -18,11 +18,11 @@ pipeline {
 				//sh "node --version"
 				echo "Build"
 				echo "BUILD_ID"
-				echo "env.BUILD_ID"
+				echo "$env.BUILD_ID"
 				echo "BUILD_NUMBER"
-				echo "env.BUILD_NUMBER"
+				echo "$env.BUILD_NUMBER"
 				echo "JENKINS_URL"
-				echo "env.JENKINS_URL"
+				echo "$env.JENKINS_URL"
 
 			}
 		}
