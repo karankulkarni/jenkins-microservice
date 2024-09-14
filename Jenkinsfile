@@ -10,17 +10,20 @@
 
 //Declarative
 pipeline {
-	//agent any
-	agent{
-		docker{
-			image 'node:22-alpine3.19'
-		}
-	}
+	agent any
+	//agent{docker{ image 'node:22-alpine3.19'}}
 	stages{
 		stage("Build"){
 			steps{
 				sh "node --version"
 				echo "Build"
+				echo "BUILD_ID"
+				echo "env.BUILD_ID"
+				echo "BUILD_NUMBER"
+				echo "env.BUILD_NUMBER"
+				echo "JENKINS_URL"
+				echo "env.JENKINS_URL"
+
 			}
 		}
 		stage("Test"){
