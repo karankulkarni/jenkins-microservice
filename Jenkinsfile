@@ -22,7 +22,7 @@ pipeline {
 				echo "BUILD_NUMBER"
 				echo "$env.BUILD_NUMBER"
 				echo "JENKINS_URL"
-				echo "$env.JENKINS_URL"
+				echo "$currentBuild.getBuildCauses"
 
 			}
 		}
