@@ -1,0 +1,53 @@
+[33mcommit 97d925828bde876040a11d83a06ad86e548553f2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Karan Kulkarni <kulkarnikaran2099@gmail.com>
+Date:   Sat Sep 14 11:59:18 2024 +0530
+
+    Added env variables
+
+[33mcommit 5ad21a972263329c6fd2606031f243c95c6be7ae[m
+Author: Karan Kulkarni <kulkarnikaran2099@gmail.com>
+Date:   Sat Sep 14 11:57:30 2024 +0530
+
+    Added env variables
+
+[33mcommit 144f7235172fa0f6e8b14898e337e3742f4d9fe3[m
+Author: Karan Kulkarni <kulkarnikaran2099@gmail.com>
+Date:   Sat Sep 14 11:56:53 2024 +0530
+
+    Added env variables
+
+[33mcommit d54cb5b8d682b12248ccad3b512cfa389bbbd4bf[m
+Author: Karan Kulkarni <kulkarnikaran2099@gmail.com>
+Date:   Sat Sep 14 11:55:28 2024 +0530
+
+    Added env variables
+
+[33mcommit 42f9ee97ff58ce302c10f3959d3aef53b8d966f4[m
+Author: Karan Kulkarni <kulkarnikaran2099@gmail.com>
+Date:   Sat Sep 14 11:42:26 2024 +0530
+
+    Added docker agent
+
+[33mcommit b1bc291b2ba445959970190df594a2f5a8e6a34e[m
+Author: Karan Kulkarni <kulkarnikaran2099@gmail.com>
+Date:   Sat Sep 14 11:30:43 2024 +0530
+
+    Added docker agent
+
+[33mcommit dc9ba0ca71258f5c585e5218493ea8f639a1868e[m
+Author: Karan Kulkarni <kulkarnikaran2099@gmail.com>
+Date:   Sat Sep 14 11:24:42 2024 +0530
+
+    Added docker agent
+
+[33mcommit 9db9092f0a1346804deea33233e27844036ef772[m
+Author: Karan Kulkarni <kulkarnikaran2099@gmail.com>
+Date:   Sat Sep 14 11:08:00 2024 +0530
+
+    Changed Jenkinsfile
+
+[33mcommit 3ff4e1651957e9384f313c17b97e5a2fa8226fd3[m
+Author: Karan Kulkarni <kulkarnikaran2099@gmail.com>
+Date:   Wed Sep 11 11:08:46 2024 +0530
+
+    first commit
